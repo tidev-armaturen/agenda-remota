@@ -121,7 +121,7 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Emerson Romão - TI</Name>
+<Name>Rafael Faria - TI</Name>
 <Telephone>8500</Telephone>
 <Mobile></Mobile>
 <Other></Other>
@@ -145,7 +145,7 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>VAGO - Qualidade</Name>
+<Name>Leandro - Qualidade</Name>
 <Telephone>8600</Telephone>
 <Mobile></Mobile>
 <Other></Other>
@@ -459,14 +459,6 @@
 <DirectoryEntry>
 <Name>Rafael Correa - Ferramentaria</Name>
 <Telephone>8981</Telephone>
-<Mobile></Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Rafael Faria - TI</Name>
-<Telephone>8501</Telephone>
 <Mobile></Mobile>
 <Other></Other>
 <Ring>Default</Ring>
