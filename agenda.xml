@@ -9,6 +9,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Recepção / Portaria</Name>
+<Telephone>(11) 4524-9951</Telephone>
+<Mobile></Mobile>
+<Other>8000</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Agenor Izidro - Vendas Externas</Name>
 <Telephone></Telephone>
 <Mobile>(71) 99136-1610</Mobile>
@@ -241,14 +249,6 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Felipe Coelho - Marketing</Name>
-<Telephone></Telephone>
-<Mobile>(11) 95681-4448</Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
 <Name>Felipe Jacom - Vendas</Name>
 <Telephone>(11) 4534-8757</Telephone>
 <Mobile></Mobile>
@@ -283,7 +283,7 @@
 <DirectoryEntry>
 <Name>Giulia Amaral - Marketing</Name>
 <Telephone>(11) 4534-8764</Telephone>
-<Mobile></Mobile>
+<Mobile>(11) 95681-4448</Mobile>
 <Other>8120</Other>
 <Ring>Default</Ring>
 <Group></Group>
@@ -514,8 +514,8 @@
 </DirectoryEntry>
 <DirectoryEntry>
 <Name>Marcelo Ribeiro - Vendas Externas</Name>
-<Telephone>(51) 99228-5733</Telephone>
-<Mobile></Mobile>
+<Telephone></Telephone>
+<Mobile>(51) 99228-5733</Mobile>
 <Other>8907</Other>
 <Ring>Default</Ring>
 <Group></Group>
@@ -610,9 +610,9 @@
 </DirectoryEntry>
 <DirectoryEntry>
 <Name>Rafael Medina - Vendas Externas</Name>
-<Telephone>(11) 98168-9906</Telephone>
-<Mobile></Mobile>
-<Other>8907</Other>
+<Telephone></Telephone>
+<Mobile>(11) 98168-9906</Mobile>
+<Other></Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -621,14 +621,6 @@
 <Telephone></Telephone>
 <Mobile>(11) 95681-4110</Mobile>
 <Other>8606</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Recepção - RH</Name>
-<Telephone>(11) 4524-9951</Telephone>
-<Mobile></Mobile>
-<Other>8000</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -650,8 +642,8 @@
 </DirectoryEntry>
 <DirectoryEntry>
 <Name>Ricardo Comissário - Vendas Externas</Name>
-<Telephone>(11) 98168-9906</Telephone>
-<Mobile></Mobile>
+<Telephone></Telephone>
+<Mobile>(11) 98168-9906</Mobile>
 <Other>8907</Other>
 <Ring>Default</Ring>
 <Group></Group>
@@ -683,7 +675,7 @@
 <DirectoryEntry>
 <Name>Stefani Oliveira - Contratos</Name>
 <Telephone>(11) 4894-7475</Telephone>
-<Mobile></Mobile>
+<Mobile>(11) 95683-1570</Mobile>
 <Other>8141</Other>
 <Ring>Default</Ring>
 <Group></Group>
@@ -715,7 +707,7 @@
 <DirectoryEntry>
 <Name>Thiago Ulrich - Líder da Usinagem</Name>
 <Telephone></Telephone>
-<Mobile>(11) (11) 95681-5788</Mobile>
+<Mobile>(11) 95681-5788</Mobile>
 <Other></Other>
 <Ring>Default</Ring>
 <Group></Group>
