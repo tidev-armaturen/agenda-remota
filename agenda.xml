@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PhoneBook>
 <DirectoryEntry>
+<Name>Schmidt - CEO</Name>
+<Telephone>(11) 4534-8766</Telephone>
+<Mobile>(11) 98121-3818</Mobile>
+<Other>8001</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Agenor Izidro - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(71) 99136-1610</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Alexandre Saldanha - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(41) 99681-6817</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Alex Fernando - Engenharia</Name>
 <Telephone>(11) 4534-8790</Telephone>
 <Mobile>(11) 98259-9076</Mobile>
@@ -41,6 +65,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>André Bitarães - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(31) 99142-9522</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>André Momente - Engenharia</Name>
 <Telephone>(11) 4534-8801</Telephone>
 <Mobile>(11) 98259-9079</Mobile>
@@ -57,6 +89,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Antonio Soares - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(81) 98147-7865</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Bianca Amaral - PCP</Name>
 <Telephone>(11) 4534-8798</Telephone>
 <Mobile></Mobile>
@@ -69,6 +109,22 @@
 <Telephone>(11) 4534-8784</Telephone>
 <Mobile>(11) 99940-0207</Mobile>
 <Other>8602</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Carlos Vieira - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(11) 98168-9901</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Carmem Araújo - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(82) 98113-5430</Mobile>
+<Other></Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -107,7 +163,7 @@
 <DirectoryEntry>
 <Name>Douglas Andrade - Processo - PCP</Name>
 <Telephone>(11) 4534-8820</Telephone>
-<Mobile></Mobile>
+<Mobile>(11) 97410-2611</Mobile>
 <Other>8901</Other>
 <Ring>Default</Ring>
 <Group></Group>
@@ -117,6 +173,14 @@
 <Telephone>(11) 4534-8785</Telephone>
 <Mobile>(11) 99648-6566</Mobile>
 <Other>8603</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Eduardo Mansur - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(31) 99174-0404</Mobile>
+<Other></Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -153,6 +217,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Everton Santos - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(21) 98130-6547</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Fabiana Silva - Processo - PCP</Name>
 <Telephone>(11) 4894-7476</Telephone>
 <Mobile></Mobile>
@@ -165,6 +237,14 @@
 <Telephone>(11) 4534-8806</Telephone>
 <Mobile></Mobile>
 <Other>8763</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Felipe Coelho - Marketing</Name>
+<Telephone></Telephone>
+<Mobile>(11) 95681-4448</Mobile>
+<Other></Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -185,6 +265,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Gil Cesar - Montagem Final</Name>
+<Telephone></Telephone>
+<Mobile>(11) 95677-2778</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Giovanni Pessoa - Vendas</Name>
 <Telephone>(11) 4534-8754</Telephone>
 <Mobile></Mobile>
@@ -197,6 +285,14 @@
 <Telephone>(11) 4534-8764</Telephone>
 <Mobile></Mobile>
 <Other>8120</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Gilherme Patutti - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(11) 99841-8018</Mobile>
+<Other></Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -265,6 +361,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>João Giaretta - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(11) 95311-6552</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Jonas Squetim - PCP</Name>
 <Telephone>(11) 4534-8799</Telephone>
 <Mobile>(11) 95677-9777</Mobile>
@@ -277,6 +381,14 @@
 <Telephone>(11) 4534-8765</Telephone>
 <Mobile>(11) 99986-3477</Mobile>
 <Other>8140</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Kennedy Oliveira - Vendas Externas</Name>
+<Telephone>(31) 99102-1851</Telephone>
+<Mobile></Mobile>
+<Other>8907</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -345,14 +457,6 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Maria - Limpeza</Name>
-<Telephone>(11) 4534-8775</Telephone>
-<Mobile></Mobile>
-<Other>8240</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
 <Name>Luciano Romero - RE AL EX</Name>
 <Telephone>(11) 4534-8815</Telephone>
 <Mobile></Mobile>
@@ -393,10 +497,26 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Maria - Limpeza</Name>
+<Telephone>(11) 4534-8775</Telephone>
+<Mobile></Mobile>
+<Other>8240</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Manutenção VAGO - Manutenção</Name>
 <Telephone>(11) 4534-8804</Telephone>
 <Mobile></Mobile>
 <Other>8761</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Marcelo Ribeiro - Vendas Externas</Name>
+<Telephone>(51) 99228-5733</Telephone>
+<Mobile></Mobile>
+<Other>8907</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -489,6 +609,22 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Rafael Medina - Vendas Externas</Name>
+<Telephone>(11) 98168-9906</Telephone>
+<Mobile></Mobile>
+<Other>8907</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Ramillys Leocadio - Motorista</Name>
+<Telephone></Telephone>
+<Mobile>(11) 95681-4110</Mobile>
+<Other>8606</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Recepção - RH</Name>
 <Telephone>(11) 4524-9951</Telephone>
 <Mobile></Mobile>
@@ -513,10 +649,42 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Ricardo Comissário - Vendas Externas</Name>
+<Telephone>(11) 98168-9906</Telephone>
+<Mobile></Mobile>
+<Other>8907</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Ricardo Moraes - Manutenção</Name>
 <Telephone>(11) 4534-8805</Telephone>
 <Mobile></Mobile>
 <Other>8762</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Ronald Siciliano - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(11) 96857-3391</Mobile>
+<Other>8907</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Sandro - Motorista</Name>
+<Telephone></Telephone>
+<Mobile>(11) 98670-6754</Mobile>
+<Other>8762</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Stefani Oliveira - Contratos</Name>
+<Telephone>(11) 4894-7475</Telephone>
+<Mobile></Mobile>
+<Other>8141</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -529,10 +697,26 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Thiago Felipe - Vendas Externas</Name>
+<Telephone></Telephone>
+<Mobile>(11) 98168-9904</Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Thiago Pedroso - Lider Produção</Name>
 <Telephone>(11) 4534-8822</Telephone>
 <Mobile></Mobile>
 <Other>8903</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Thiago Ulrich - Líder da Usinagem</Name>
+<Telephone></Telephone>
+<Mobile>(11) (11) 95681-5788</Mobile>
+<Other></Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
