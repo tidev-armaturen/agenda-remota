@@ -49,6 +49,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Antonia - Limpeza</Name>
+<Telephone>(11) 4524-9953</Telephone>
+<Mobile></Mobile>
+<Other>8241</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Bianca Amaral - PCP</Name>
 <Telephone>(11) 4534-8798</Telephone>
 <Mobile></Mobile>
@@ -112,23 +120,6 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-<DirectoryEntry>
-<Name>Luis Trauzula - Financeiro</Name>
-<Telephone>(11) 4534-8780</Telephone>
-<Mobile>(11) 98459-1098</Mobile>
-<Other>8400</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Rafael Faria - TI</Name>
-<Telephone>(11) 4524-9952</Telephone>
-<Mobile>(11) 99120-8625</Mobile>
-<Other>8500</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
 <Name>Emilly da Silva - RH</Name>
 <Telephone>(11) 4534-8772</Telephone>
 <Mobile></Mobile>
@@ -137,18 +128,10 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>VAGO - Engenharia</Name>
+<Name>Engenharia - VAGO</Name>
 <Telephone>8702</Telephone>
 <Mobile></Mobile>
 <Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Leandro Waisbich - Qualidade</Name>
-<Telephone>(11) 4534-8782</Telephone>
-<Mobile>(11) 99286-5599</Mobile>
-<Other>8600</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -157,6 +140,22 @@
 <Telephone>(11) 4534-8768</Telephone>
 <Mobile>(11) 94453-4378</Mobile>
 <Other>8402</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Erick Mattos - SSMA</Name>
+<Telephone>(11) 4534-8773</Telephone>
+<Mobile>(11) 97521-6369</Mobile>
+<Other>8220</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Fabiana Silva - Processo - PCP</Name>
+<Telephone>(11) 4894-7476</Telephone>
+<Mobile></Mobile>
+<Other>8906</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -177,26 +176,10 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Erick Mattos - SSMA</Name>
-<Telephone>(11) 4534-8773</Telephone>
-<Mobile>(11) 97521-6369</Mobile>
-<Other>8220</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>VAGO - Assistência Técnica</Name>
-<Telephone>(11) 4534-8802</Telephone>
-<Mobile>(11) 94121-4364</Mobile>
-<Other>8741</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Vladimir Rossiti - Laboratório</Name>
-<Telephone>(11) 4534-8825</Telephone>
+<Name>Gabriel Assis - Manutenção</Name>
+<Telephone>(11) 4534-8807</Telephone>
 <Mobile></Mobile>
-<Other>8920</Other>
+<Other>8764</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -213,14 +196,6 @@
 <Telephone>(11) 4534-8764</Telephone>
 <Mobile></Mobile>
 <Other>8120</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>VAGO - Vendas</Name>
-<Telephone>(11) 4534-8760</Telephone>
-<Mobile></Mobile>
-<Other>8104</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -265,6 +240,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Jeferson Godoi - Assistência Técnica</Name>
+<Telephone>(11) 4534-8802</Telephone>
+<Mobile>(11) 94121-4364</Mobile>
+<Other>8741</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Jeferson Godoi - Manutenção</Name>
 <Telephone>(11) 4534-8803</Telephone>
 <Mobile>(11) 97496-6402</Mobile>
@@ -273,18 +256,18 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Jonas Squetim - PCP</Name>
-<Telephone>(11) 4534-8799</Telephone>
-<Mobile>(11) 95677-9777</Mobile>
-<Other>8722</Other>
+<Name>Jefferson Silva - Lider Produção</Name>
+<Telephone>(11) 4894-7477</Telephone>
+<Mobile></Mobile>
+<Other>8907</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Gabriel Assis - Manutenção</Name>
-<Telephone>(11) 4534-8807</Telephone>
-<Mobile></Mobile>
-<Other>8764</Other>
+<Name>Jonas Squetim - PCP</Name>
+<Telephone>(11) 4534-8799</Telephone>
+<Mobile>(11) 95677-9777</Mobile>
+<Other>8722</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -329,18 +312,18 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Leticia Rezende - Vendas</Name>
-<Telephone>(11) 4534-8758</Telephone>
-<Mobile></Mobile>
-<Other>8102</Other>
+<Name>Leandro Waisbich - Qualidade</Name>
+<Telephone>(11) 4534-8782</Telephone>
+<Mobile>(11) 99286-5599</Mobile>
+<Other>8600</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Maria - Limpeza</Name>
-<Telephone>(11) 4534-8775</Telephone>
+<Name>Leticia Rezende - Vendas</Name>
+<Telephone>(11) 4534-8758</Telephone>
 <Mobile></Mobile>
-<Other>8240</Other>
+<Other>8102</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -353,10 +336,34 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Luis Trauzula - Financeiro</Name>
+<Telephone>(11) 4534-8780</Telephone>
+<Mobile>(11) 98459-1098</Mobile>
+<Other>8400</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Maria - Limpeza</Name>
+<Telephone>(11) 4534-8775</Telephone>
+<Mobile></Mobile>
+<Other>8240</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Luciano Romero - RE AL EX</Name>
 <Telephone>(11) 4534-8815</Telephone>
 <Mobile></Mobile>
 <Other>8843</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Luidy Batista - Qualidade</Name>
+<Telephone>(11) 4534-8789</Telephone>
+<Mobile></Mobile>
+<Other>8607</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -377,18 +384,18 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Manutenção VAGO - Manutenção</Name>
-<Telephone>(11) 4534-8804</Telephone>
+<Name>Luzia Lima - RH</Name>
+<Telephone>(11) 4534-8771</Telephone>
 <Mobile></Mobile>
-<Other>8761</Other>
+<Other>8201</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Thais Fogaça - Financeiro</Name>
-<Telephone>(11) 4534-8781</Telephone>
-<Mobile>(11) 95681-6660</Mobile>
-<Other>8401</Other>
+<Name>Manutenção VAGO - Manutenção</Name>
+<Telephone>(11) 4534-8804</Telephone>
+<Mobile></Mobile>
+<Other>8761</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -433,14 +440,6 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Reinaldo - RE AL EX</Name>
-<Telephone>(11) 4534-8816</Telephone>
-<Mobile>(11) 95681-3998</Mobile>
-<Other>8844</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
 <Name>Preparação - Montagem</Name>
 <Telephone>(11) 4534-8809</Telephone>
 <Mobile></Mobile>
@@ -457,6 +456,14 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Qualidade - VAGO</Name>
+<Telephone>(11) 4534-8787</Telephone>
+<Mobile></Mobile>
+<Other>8605</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Rafael Correa - Ferramentaria</Name>
 <Telephone>(11) 4534-8827</Telephone>
 <Mobile></Mobile>
@@ -465,10 +472,34 @@
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
+<Name>Rafael Faria - TI</Name>
+<Telephone>(11) 4524-9952</Telephone>
+<Mobile>(11) 99120-8625</Mobile>
+<Other>8500</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Rafael Fernandes - Qualidade</Name>
+<Telephone>(11) 4534-8788</Telephone>
+<Mobile></Mobile>
+<Other>8606</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
 <Name>Recepção - RH</Name>
 <Telephone>(11) 4524-9951</Telephone>
 <Mobile></Mobile>
 <Other>8000</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Reinaldo - RE AL EX</Name>
+<Telephone>(11) 4534-8816</Telephone>
+<Mobile>(11) 95681-3998</Mobile>
+<Other>8844</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -485,6 +516,14 @@
 <Telephone>(11) 4534-8805</Telephone>
 <Mobile></Mobile>
 <Other>8762</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Thais Fogaça - Financeiro</Name>
+<Telephone>(11) 4534-8781</Telephone>
+<Mobile>(11) 95681-6660</Mobile>
+<Other>8401</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -514,97 +553,57 @@
 </DirectoryEntry>
 <DirectoryEntry>
 <Name>Usinagem VAGO - Usinagem</Name>
-<Telephone>8820</Telephone>
+<Telephone>(11) 4534-8811</Telephone>
 <Mobile></Mobile>
-<Other></Other>
+<Other>8820</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
 <Name>Vanessa Neris - Qualidade</Name>
-<Telephone>8601</Telephone>
-<Mobile></Mobile>
-<Other></Other>
+<Telephone>(11) 4894-7478</Telephone>
+<Mobile>(11) 97464-9321</Mobile>
+<Other>8601</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
 <Name>Vasco Neto - Compras</Name>
-<Telephone>8300</Telephone>
-<Mobile></Mobile>
-<Other></Other>
+<Telephone>(11) 4534-8776</Telephone>
+<Mobile>(11) 95781-5849</Mobile>
+<Other>8300</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
-<Name>Wanderson Almeida - Vendas</Name>
-<Telephone>8107</Telephone>
+<Name>Vendas - VAGO</Name>
+<Telephone>(11) 4534-8760</Telephone>
 <Mobile></Mobile>
-<Other></Other>
+<Other>8104</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Vladimir Rossiti - Laboratório</Name>
+<Telephone>(11) 4534-8825</Telephone>
+<Mobile></Mobile>
+<Other>8920</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry> 
+<Name>Wanderson Almeida - Vendas</Name>
+<Telephone>(11) 4534-8763</Telephone>
+<Mobile></Mobile>
+<Other>8107</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
 <DirectoryEntry>
 <Name>Willian Moterle - PCP</Name>
-<Telephone>8720</Telephone>
-<Mobile></Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Antonia - Limpeza</Name>
-<Telephone>8241</Telephone>
-<Mobile></Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Luzia - RH</Name>
-<Telephone>8201</Telephone>
-<Mobile></Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>VAGO - Laboratorio</Name>
-<Telephone>8605</Telephone>
-<Mobile></Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Rafael Fernandes - Qualidade</Name>
-<Telephone>8606</Telephone>
-<Mobile></Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Luidy - Qualidade</Name>
-<Telephone>8607</Telephone>
-<Mobile></Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Jefferson - Lider Produção</Name>
-<Telephone>8907</Telephone>
-<Mobile></Mobile>
-<Other></Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Fabiana - Processo - PCP</Name>
-<Telephone>8906</Telephone>
-<Mobile></Mobile>
-<Other></Other>
+<Telephone>(11) 4534-8797</Telephone>
+<Mobile>(11) 95681-9710</Mobile>
+<Other>8720</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
