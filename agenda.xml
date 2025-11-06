@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PhoneBook>
+  
 <DirectoryEntry>
 <Name>Schmidt - CEO</Name>
 <Telephone>(11) 4534-8766</Telephone>
@@ -8,6 +9,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Recepção / Portaria</Name>
 <Telephone>(11) 4524-9951</Telephone>
@@ -16,6 +18,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Adrielly Petroni - SSMA</Name>
+<Telephone>114534-8774</Telephone>
+<Mobile></Mobile>
+<Other>8221</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Agenor Izidro - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -24,6 +36,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Alexandre Saldanha - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -32,6 +45,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Alex Fernando - Engenharia</Name>
 <Telephone>(11) 4534-8790</Telephone>
@@ -40,6 +54,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Alexandre Alves - Fundição</Name>
 <Telephone>(11) 4534-8818</Telephone>
@@ -48,6 +63,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Almoxarifado - RE AL EX</Name>
 <Telephone>(11) 4534-8817</Telephone>
@@ -56,6 +72,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Amanda Andrade - Vendas</Name>
 <Telephone>(11) 4534-8761</Telephone>
@@ -64,6 +81,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Anderson Faia - Engenharia</Name>
 <Telephone>(11) 4534-8796</Telephone>
@@ -72,6 +90,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>André Bitarães - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -80,6 +99,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>André Momente - Engenharia</Name>
 <Telephone>(11) 4534-8801</Telephone>
@@ -88,6 +108,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Antonia - Limpeza</Name>
 <Telephone>(11) 4524-9953</Telephone>
@@ -96,6 +117,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Antonio Soares - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -104,6 +126,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
+<DirectoryEntry>
+<Name>Barbara Farias - Contratos</Name>
+<Telephone></Telephone>
+<Mobile></Mobile>
+<Other>8143</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Bianca Amaral - PCP</Name>
 <Telephone>(11) 4534-8798</Telephone>
@@ -112,6 +144,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Bruna Marques - Qualidade</Name>
 <Telephone>(11) 4534-8784</Telephone>
@@ -120,6 +153,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Carlos Vieira - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -128,6 +162,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Carmem Araújo - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -136,6 +171,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Caroline Marques - Vendas</Name>
 <Telephone>(11) 4534-8753</Telephone>
@@ -144,6 +180,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Danilo Barbosa - Processo - PCP</Name>
 <Telephone>(11) 4534-8823</Telephone>
@@ -152,6 +189,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Diego Desidério - Vendas</Name>
 <Telephone>(11) 4534-8759</Telephone>
@@ -160,6 +198,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Diego Silva - PCP</Name>
 <Telephone>(11) 4534-8800</Telephone>
@@ -168,6 +207,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Douglas Andrade - Processo - PCP</Name>
 <Telephone>(11) 4534-8820</Telephone>
@@ -176,6 +216,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Douglas Pinheiro - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -184,6 +225,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Eduarda Cardozo - Qualidade</Name>
 <Telephone>(11) 4534-8785</Telephone>
@@ -192,6 +234,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Eduardo Mansur - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -200,6 +243,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Emilly da Silva - RH</Name>
 <Telephone>(11) 4534-8772</Telephone>
@@ -208,6 +252,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Engenharia - VAGO</Name>
 <Telephone>8702</Telephone>
@@ -216,6 +261,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Erika Santos - Financeiro</Name>
 <Telephone>(11) 4534-8768</Telephone>
@@ -224,6 +270,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Erick Mattos - SSMA</Name>
 <Telephone>(11) 4534-8773</Telephone>
@@ -232,6 +279,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Everton Santos - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -240,14 +288,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
-<Name>Fabiana Silva - Processo - PCP</Name>
+<Name>PCP VAGO</Name>
 <Telephone>(11) 4894-7476</Telephone>
 <Mobile></Mobile>
 <Other>8906</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Fabio / Isaac - Manutenção</Name>
 <Telephone>(11) 4534-8806</Telephone>
@@ -256,6 +306,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Felipe Jacom - Vendas</Name>
 <Telephone>(11) 4534-8757</Telephone>
@@ -264,6 +315,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Gabriel Assis - Manutenção</Name>
 <Telephone>(11) 4534-8807</Telephone>
@@ -272,6 +324,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Gil Cesar - Montagem Final</Name>
 <Telephone></Telephone>
@@ -280,6 +333,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Giovanni Pessoa - Vendas</Name>
 <Telephone>(11) 4534-8754</Telephone>
@@ -288,14 +342,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
-<Name>Giulia Amaral - Marketing</Name>
+<Name>Marketing - VAGO</Name>
 <Telephone>(11) 4534-8764</Telephone>
 <Mobile>(11) 95681-4448</Mobile>
 <Other>8120</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Gilherme Patutti - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -304,6 +360,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Guilherme Sebinel - Processo - PCP</Name>
 <Telephone>(11) 4534-8824</Telephone>
@@ -312,6 +369,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Guilherme Souza - Engenharia</Name>
 <Telephone>(11) 4534-8791</Telephone>
@@ -320,6 +378,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Gustavo Galoni - Compras</Name>
 <Telephone>(11) 4534-8779</Telephone>
@@ -328,6 +387,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Isabela Queiroz - Compras</Name>
 <Telephone>(11) 4534-8778</Telephone>
@@ -336,14 +396,25 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Ivan Renato - Ferramentaria</Name>
 <Telephone>(11) 4534-8826</Telephone>
-<Mobile>(11) 95681-726</Mobile>
+<Mobile>(11) 95681-7268</Mobile>
 <Other>8980</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
+<DirectoryEntry>
+<Name>Ivan Grisotti - Engenharia</Name>
+<Telephone>(11) 4534-8795</Telephone>
+<Mobile>(11) 95681-4668</Mobile>
+<Other>8710</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Jeferson Godoi - Assistência Técnica</Name>
 <Telephone>(11) 4534-8802</Telephone>
@@ -352,14 +423,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
-<Name>Jeferson Godoi - Manutenção</Name>
+<Name>Marcelo Prado - Manutenção</Name>
 <Telephone>(11) 4534-8803</Telephone>
 <Mobile>(11) 97496-6402</Mobile>
 <Other>8760</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Jefferson Silva - Lider Produção</Name>
 <Telephone>(11) 4894-7477</Telephone>
@@ -368,6 +441,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>João Giaretta - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -376,6 +450,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Jonas Squetim - PCP</Name>
 <Telephone>(11) 4534-8799</Telephone>
@@ -384,6 +459,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Josilene Santana - Contratos</Name>
 <Telephone>(11) 4534-8765</Telephone>
@@ -392,6 +468,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Kennedy Oliveira - Vendas Externas</Name>
 <Telephone>(31) 99102-1851</Telephone>
@@ -400,6 +477,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Kerli Chacon - Vendas</Name>
 <Telephone>8106</Telephone>
@@ -408,14 +486,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-<DirectoryEntry>
-<Name>Laiane Souza - Contratos</Name>
-<Telephone>(11) 4534-8767</Telephone>
-<Mobile>(11) 95681-3644</Mobile>
-<Other>8142</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Lara Delpoio - Compras</Name>
 <Telephone>(11) 4534-8777</Telephone>
@@ -424,6 +495,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Lavoisier Oliveira - Engenharia</Name>
 <Telephone>(11) 4534-8794</Telephone>
@@ -432,6 +504,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Leandro Waisbich - Qualidade</Name>
 <Telephone>(11) 4534-8782</Telephone>
@@ -440,6 +513,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Leticia Rezende - Vendas</Name>
 <Telephone>(11) 4534-8758</Telephone>
@@ -448,6 +522,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Lucas Almeida - Processo - PCP</Name>
 <Telephone>(11) 4534-8821</Telephone>
@@ -456,22 +531,25 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
-<Name>Luis Trauzula - Financeiro</Name>
+<Name>Luis Trauzola - Financeiro</Name>
 <Telephone>(11) 4534-8780</Telephone>
 <Mobile>(11) 98459-1098</Mobile>
 <Other>8400</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Luciano Romero - RE AL EX</Name>
 <Telephone>(11) 4534-8815</Telephone>
 <Mobile></Mobile>
-<Other>8843</Other>
+<Other>8844</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Luidy Batista - Qualidade</Name>
 <Telephone>(11) 4534-8789</Telephone>
@@ -480,6 +558,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Luis Fernando - Vendas</Name>
 <Telephone>(11) 4534-8756</Telephone>
@@ -488,6 +567,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Luiz Alexandre - Montagem</Name>
 <Telephone>(11) 4534-8808</Telephone>
@@ -496,14 +576,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
-<Name>Luzia Lima - RH</Name>
+<Name>RH VAGO</Name>
 <Telephone>(11) 4534-8771</Telephone>
 <Mobile></Mobile>
 <Other>8201</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Maria - Limpeza</Name>
 <Telephone>(11) 4534-8775</Telephone>
@@ -512,6 +594,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Manutenção VAGO - Manutenção</Name>
 <Telephone>(11) 4534-8804</Telephone>
@@ -520,6 +603,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Marcela Barbieri - Contratos</Name>
+<Telephone>(11) 4534-8767</Telephone>
+<Mobile>(11) 95681-3644</Mobile>
+<Other>8142</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Marcelo Ribeiro - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -528,6 +621,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Matheus Ribeiro - TI</Name>
 <Telephone>(11) 4534-8752</Telephone>
@@ -536,6 +630,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Montagem Final - Montagem</Name>
 <Telephone>(11) 4534-8810</Telephone>
@@ -544,6 +639,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Noeld Cangussu - Fundição</Name>
 <Telephone>(11) 4534-8819</Telephone>
@@ -552,6 +648,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Paulo Almeida - TI</Name>
 <Telephone>(11) 4534-8755</Telephone>
@@ -560,6 +657,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Paulo Rodrigues - RH</Name>
 <Telephone>(11) 4534-8770</Telephone>
@@ -568,6 +666,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Preparação - Montagem</Name>
 <Telephone>(11) 4534-8809</Telephone>
@@ -576,6 +675,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>QA Fundição - Qualidade</Name>
 <Telephone>(11) 4534-8786</Telephone>
@@ -584,6 +684,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Qualidade - VAGO</Name>
 <Telephone>(11) 4534-8787</Telephone>
@@ -592,6 +693,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Rafael Correa - Ferramentaria</Name>
 <Telephone>(11) 4534-8827</Telephone>
@@ -600,6 +702,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Rafael Faria - TI</Name>
 <Telephone>(11) 4524-9952</Telephone>
@@ -608,6 +711,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Rafael Fernandes - Qualidade</Name>
 <Telephone>(11) 4534-8788</Telephone>
@@ -616,6 +720,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Rafael Medina - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -624,6 +729,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Ramillys Leocadio - Motorista</Name>
 <Telephone></Telephone>
@@ -632,14 +738,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Reinaldo - RE AL EX</Name>
 <Telephone>(11) 4534-8816</Telephone>
 <Mobile>(11) 95681-3998</Mobile>
-<Other>8844</Other>
+<Other>8841</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Renato Pizzi - RE AL EX</Name>
 <Telephone>(11) 4534-8813</Telephone>
@@ -648,6 +756,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Ricardo Comissário - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -656,6 +765,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Ricardo Moraes - Manutenção</Name>
 <Telephone>(11) 4534-8805</Telephone>
@@ -664,6 +774,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Ronald Siciliano - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -672,22 +783,25 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
-<Name>Sandro - Motorista</Name>
+<Name>Motorista VAGO</Name>
 <Telephone></Telephone>
 <Mobile>(11) 98670-6754</Mobile>
 <Other>8762</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
 <DirectoryEntry>
-<Name>Stefani Oliveira - Contratos</Name>
+<Name>Contratos VAGO</Name>
 <Telephone>(11) 4894-7475</Telephone>
 <Mobile>(11) 95683-1570</Mobile>
 <Other>8141</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Thais Fogaça - Financeiro</Name>
 <Telephone>(11) 4534-8781</Telephone>
@@ -696,6 +810,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Thiago Felipe - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -704,6 +819,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Thiago Pedroso - Lider Produção</Name>
 <Telephone>(11) 4534-8822</Telephone>
@@ -712,6 +828,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Thiago Ulrich - Líder da Usinagem</Name>
 <Telephone></Telephone>
@@ -720,6 +837,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Tiago Massareto - Contratos</Name>
 <Telephone>(11) 4534-8769</Telephone>
@@ -728,6 +846,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Usinagem - Usinagem</Name>
 <Telephone>(11) 4534-8812</Telephone>
@@ -736,6 +855,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Usinagem VAGO - Usinagem</Name>
 <Telephone>(11) 4534-8811</Telephone>
@@ -744,6 +864,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Vanessa Neris - Qualidade</Name>
 <Telephone>(11) 4894-7478</Telephone>
@@ -752,6 +873,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Vasco Neto - Compras</Name>
 <Telephone>(11) 4534-8776</Telephone>
@@ -760,6 +882,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Vendas - VAGO</Name>
 <Telephone>(11) 4534-8760</Telephone>
@@ -768,6 +891,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Vitoria Bufalo - RH</Name>
+<Telephone>(11) 4534-8807</Telephone>
+<Mobile></Mobile>
+<Other>8203</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Vladimir Rossiti - Laboratório</Name>
 <Telephone>(11) 4534-8825</Telephone>
@@ -776,6 +909,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry> 
 <Name>Wanderson Almeida - Vendas</Name>
 <Telephone>(11) 4534-8763</Telephone>
@@ -784,6 +918,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+  
 <DirectoryEntry>
 <Name>Willian Moterle - PCP</Name>
 <Telephone>(11) 4534-8797</Telephone>
