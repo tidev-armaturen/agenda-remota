@@ -19,14 +19,14 @@
 <Group></Group>
 </DirectoryEntry>
 
-<DirectoryEntry>
+//<DirectoryEntry>
 <Name>Vago - SSMA</Name>
 <Telephone>114534-8774</Telephone>
 <Mobile></Mobile>
 <Other>8221</Other>
 <Ring>Default</Ring>
 <Group></Group>
-</DirectoryEntry>
+</DirectoryEntry>//
   
 <DirectoryEntry>
 <Name>Agenor Izidro - Vendas Externas</Name>
