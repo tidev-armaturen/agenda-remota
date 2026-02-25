@@ -101,8 +101,8 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Barbara Farias - Compras</Name>
-<Telephone></Telephone>
+<Name>Barbara Farias - Contratos</Name>
+<Telephone>(11) 4534-8760</Telephone>
 <Mobile></Mobile>
 <Other>8143</Other>
 <Ring>Default</Ring>
@@ -243,6 +243,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
+
+<DirectoryEntry>
+<Name>Patricia Barbosa - SSMA</Name>
+<Telephone>(11) 4534-8774</Telephone>
+<Mobile></Mobile>
+<Other>8221</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
   
 <DirectoryEntry>
 <Name>Everton Santos - Vendas Externas</Name>
@@ -326,7 +336,7 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>VAGO - Processo - PCP</Name>
+<Name>Guilherme Sebinel - PCP</Name>
 <Telephone>(11) 4534-8824</Telephone>
 <Mobile></Mobile>
 <Other>8905</Other>
@@ -369,7 +379,16 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-  
+
+<DirectoryEntry>
+<Name>Anderson Faia - Engenharia</Name>
+<Telephone>(11) 4534-8796</Telephone>
+<Mobile></Mobile>
+<Other>8706</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
 <DirectoryEntry>
 <Name>Ivan Grisotti - Engenharia</Name>
 <Telephone>(11) 4534-8795</Telephone>
@@ -479,10 +498,19 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Leticia Rezende - Vendas</Name>
+<Name>Guilherme Gutierrez - Vendas</Name>
 <Telephone>(11) 4534-8758</Telephone>
 <Mobile></Mobile>
 <Other>8102</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Montagem Final - Montagem</Name>
+<Telephone>(11) 4534-8810</Telephone>
+<Mobile></Mobile>
+<Other>8802</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -506,7 +534,25 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Luciano Romero - RE AL EX</Name>
+<Name>Movimentação  - RE AL EX</Name>
+<Telephone>(11) 4534-8783</Telephone>
+<Mobile></Mobile>
+<Other>8842</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+  
+<DirectoryEntry>
+<Name>Separação  - RE AL EX</Name>
+<Telephone>(11) 4534-8787</Telephone>
+<Mobile></Mobile>
+<Other>8843</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+  
+<DirectoryEntry>
+<Name>Reinaldo Junior - RE AL EX</Name>
 <Telephone>(11) 4534-8815</Telephone>
 <Mobile></Mobile>
 <Other>8844</Other>
@@ -686,7 +732,7 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Reinaldo - RE AL EX</Name>
+<Name>Luciano Romero - RE AL EX</Name>
 <Telephone>(11) 4534-8816</Telephone>
 <Mobile>(11) 95681-3998</Mobile>
 <Other>8841</Other>
@@ -789,6 +835,25 @@
 <Telephone>(11) 4534-8769</Telephone>
 <Mobile>(11) 95636-8665</Mobile>
 <Other>8144</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Marcela Marsare - Contratos</Name>
+<Telephone>(11) 4894-7479</Telephone>
+<Mobile></Mobile>
+<Other>8145</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+
+<DirectoryEntry>
+<Name>Matheus Campos - Contratos</Name>
+<Telephone>(11) 4534-8804</Telephone>
+<Mobile></Mobile>
+<Other>8146</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
