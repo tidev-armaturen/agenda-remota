@@ -416,15 +416,6 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>Kleber Jauch - Engenharia</Name>
-<Telephone>(11) 4534-8796</Telephone>
-<Mobile></Mobile>
-<Other>8706</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-            
-<DirectoryEntry>
 <Name>Kerli Chacon - Vendas</Name>
 <Telephone>8106</Telephone>
 <Mobile>(11) 4534-8762</Mobile>
@@ -433,6 +424,15 @@
 <Group></Group>
 </DirectoryEntry>
   
+<DirectoryEntry>
+<Name>Kleber Jauch - Engenharia</Name>
+<Telephone>(11) 4534-8796</Telephone>
+<Mobile></Mobile>
+<Other>8706</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+              
 <DirectoryEntry>
 <Name>Lara Delpoio - Compras</Name>
 <Telephone>(11) 4534-8777</Telephone>
@@ -549,34 +549,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-        
-<DirectoryEntry>
-<Name>Movimentação  - RE AL EX</Name>
-<Telephone>(11) 4534-8783</Telephone>
-<Mobile></Mobile>
-<Other>8842</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-  
-<DirectoryEntry>
-<Name>Separação  - RE AL EX</Name>
-<Telephone>(11) 4534-8787</Telephone>
-<Mobile></Mobile>
-<Other>8843</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-      
-<DirectoryEntry>
-<Name>RH VAGO</Name>
-<Telephone>(11) 4534-8771</Telephone>
-<Mobile></Mobile>
-<Other>8201</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-  
+                 
 <DirectoryEntry>
 <Name>Maria - Limpeza</Name>
 <Telephone>(11) 4894-7476</Telephone>
@@ -636,6 +609,15 @@
 <Telephone>(11) 4534-8810</Telephone>
 <Mobile></Mobile>
 <Other>8802</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Movimentação  - RE AL EX</Name>
+<Telephone>(11) 4534-8783</Telephone>
+<Mobile></Mobile>
+<Other>8842</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -771,6 +753,15 @@
 <Telephone></Telephone>
 <Mobile>(11) 96857-3391</Mobile>
 <Other>8907</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Separação  - RE AL EX</Name>
+<Telephone>(11) 4534-8787</Telephone>
+<Mobile></Mobile>
+<Other>8843</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
