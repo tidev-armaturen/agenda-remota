@@ -207,6 +207,15 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Emerson Ribeiro - Engenharia</Name>
+<Telephone>(11) 4534-8795</Telephone>
+<Mobile></Mobile>
+<Other>8710</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
   
 <DirectoryEntry>
 <Name>Emilly da Silva - RH</Name>
@@ -226,15 +235,6 @@
 <Group></Group>
 </DirectoryEntry>
   
-<DirectoryEntry>
-<Name>Tulyo Straviotti - SSMA</Name>
-<Telephone>(11) 4534-8773</Telephone>
-<Mobile>(11) 97521-6369</Mobile>
-<Other>8220</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-
 <DirectoryEntry>
 <Name>Everton Santos - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -473,7 +473,7 @@
 <Name>Leandro Neves - Vendas Externas</Name>
 <Telephone>(31) 99102-1851</Telephone>
 <Mobile></Mobile>
-<Other>8907</Other>
+<Other>0000</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -617,7 +617,7 @@
 <Name>Marcelo Ribeiro - Vendas Externas</Name>
 <Telephone></Telephone>
 <Mobile>(51) 99228-5733</Mobile>
-<Other>8907</Other>
+<Other>0000</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -632,7 +632,7 @@
 </DirectoryEntry>
 
 <DirectoryEntry> 
-<Name>Marcos Santos - Engenharia</Name>
+<Name>Marcos Santos - PCP</Name>
 <Telephone>(11) 4534-8811</Telephone>
 <Mobile></Mobile>
 <Other>8724</Other>
@@ -757,16 +757,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-  
-<DirectoryEntry>
-<Name>Ramillys Leocadio - Motorista</Name>
-<Telephone></Telephone>
-<Mobile>(11) 95681-4110</Mobile>
-<Other>8606</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-   
+    
 <DirectoryEntry>
 <Name>Renato Pizzi - RE AL EX</Name>
 <Telephone>(11) 4534-8813</Telephone>
@@ -780,7 +771,7 @@
 <Name>Ricardo Comissário - Vendas Externas</Name>
 <Telephone></Telephone>
 <Mobile>(11) 98168-9906</Mobile>
-<Other>8907</Other>
+<Other>0000</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -789,7 +780,7 @@
 <Name>Ronald Siciliano - Vendas Externas</Name>
 <Telephone></Telephone>
 <Mobile>(11) 96857-3391</Mobile>
-<Other>8907</Other>
+<Other>0000</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -853,6 +844,15 @@
 <Telephone>(11) 4534-8769</Telephone>
 <Mobile>(11) 95636-8665</Mobile>
 <Other>8144</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Tulyo Straviotti - SSMA</Name>
+<Telephone>(11) 4534-8773</Telephone>
+<Mobile>(11) 97521-6369</Mobile>
+<Other>8220</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
