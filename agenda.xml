@@ -416,6 +416,15 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
+<Name>Juli Mar - Contratos</Name>
+<Telephone>(11) 4534-8804</Telephone>
+<Mobile></Mobile>
+<Other>8146</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
 <Name>Kerli Chacon - Vendas</Name>
 <Telephone>8106</Telephone>
 <Mobile>(11) 4534-8762</Mobile>
@@ -597,9 +606,9 @@
 
 <DirectoryEntry>
 <Name>Matheus Campos - Contratos</Name>
-<Telephone>(11) 4534-8804</Telephone>
+<Telephone>(11) 4894-7479</Telephone>
 <Mobile></Mobile>
-<Other>8146</Other>
+<Other>8145</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -816,15 +825,6 @@
 <Telephone>(11) 4534-8769</Telephone>
 <Mobile>(11) 95636-8665</Mobile>
 <Other>8144</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-
-<DirectoryEntry>
-<Name>Marcela Marsare - Contratos</Name>
-<Telephone>(11) 4894-7479</Telephone>
-<Mobile></Mobile>
-<Other>8145</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
