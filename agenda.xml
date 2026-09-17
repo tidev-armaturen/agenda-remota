@@ -261,6 +261,15 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Fernanda Marçola - Vendas</Name>
+<Telephone>(11) 4534-8792</Telephone>
+<Mobile></Mobile>
+<Other>8104</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
   
 <DirectoryEntry>
 <Name>Gabriel Assis - Manutenção</Name>
@@ -297,9 +306,18 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Graziela Santos - Contratos</Name>
+<Telephone>(11) 4534-8805</Telephone>
+<Mobile></Mobile>
+<Other>8147</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Gilherme Patutti - Vendas Externas</Name>
+<Name>Guilherme Patutti - Vendas Externas</Name>
 <Telephone></Telephone>
 <Mobile>(11) 99841-8018</Mobile>
 <Other></Other>
@@ -362,10 +380,10 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>Ivan Grisotti - Engenharia</Name>
-<Telephone>(11) 4534-8795</Telephone>
-<Mobile>(11) 95681-4668</Mobile>
-<Other>8710</Other>
+<Name>Jaciara - Limpeza</Name>
+<Telephone>(11) 4534-8793</Telephone>
+<Mobile></Mobile>
+<Other>8242</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -577,6 +595,15 @@
 <Group></Group>
 </DirectoryEntry>
 
+<DirectoryEntry> 
+<Name>Mariana Ferraz - RH</Name>
+<Telephone>(11) 4534-8771</Telephone>
+<Mobile></Mobile>
+<Other>8201</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
 <DirectoryEntry>
 <Name>Marcela Barbieri - Contratos</Name>
 <Telephone>(11) 4534-8767</Telephone>
@@ -604,11 +631,29 @@
 <Group></Group>
 </DirectoryEntry>
 
+<DirectoryEntry> 
+<Name>Marco Morais - Engenharia</Name>
+<Telephone>(11) 4534-8810</Telephone>
+<Mobile></Mobile>
+<Other>8702</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
 <DirectoryEntry>
 <Name>Matheus Campos - Contratos</Name>
 <Telephone>(11) 4894-7479</Telephone>
 <Mobile></Mobile>
 <Other>8145</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Mario Tobias - PCP</Name>
+<Telephone>(11) 4534-8815</Telephone>
+<Mobile></Mobile>
+<Other>8725</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
