@@ -245,10 +245,10 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Fabio / Isaac - Manutenção</Name>
-<Telephone>(11) 4534-8806</Telephone>
+<Name>Fabricio Costa - RE AL EX</Name>
+<Telephone>(11) 4534-8815</Telephone>
 <Mobile></Mobile>
-<Other>8763</Other>
+<Other>8844</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -279,7 +279,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-  
+
 <DirectoryEntry>
 <Name>Gil Cesar - Montagem Final</Name>
 <Telephone></Telephone>
@@ -288,7 +288,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-  
+   
 <DirectoryEntry>
 <Name>Giovanni Pessoa - Vendas</Name>
 <Telephone>(11) 4534-8754</Telephone>
@@ -423,25 +423,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-  
-<DirectoryEntry>
-<Name>Marcelo Prado - Manutenção</Name>
-<Telephone>(11) 4534-8803</Telephone>
-<Mobile>(11) 97496-6402</Mobile>
-<Other>8760</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-        
-<DirectoryEntry>
-<Name>Leandro Neves - Vendas Externas</Name>
-<Telephone>(31) 99102-1851</Telephone>
-<Mobile></Mobile>
-<Other>8907</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-  
+            
 <DirectoryEntry>
 <Name>Kerli Chacon - Vendas</Name>
 <Telephone>8106</Telephone>
@@ -465,6 +447,15 @@
 <Telephone>(11) 4534-8794</Telephone>
 <Mobile></Mobile>
 <Other>8704</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Leandro Neves - Vendas Externas</Name>
+<Telephone>(31) 99102-1851</Telephone>
+<Mobile></Mobile>
+<Other>8907</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -558,16 +549,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-  
-<DirectoryEntry>
-<Name>Montagem Final - Montagem</Name>
-<Telephone>(11) 4534-8810</Telephone>
-<Mobile></Mobile>
-<Other>8802</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-      
+        
 <DirectoryEntry>
 <Name>Movimentação  - RE AL EX</Name>
 <Telephone>(11) 4534-8783</Telephone>
@@ -585,16 +567,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-  
-<DirectoryEntry>
-<Name>Reinaldo Junior - RE AL EX</Name>
-<Telephone>(11) 4534-8815</Telephone>
-<Mobile></Mobile>
-<Other>8844</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-    
+      
 <DirectoryEntry>
 <Name>RH VAGO</Name>
 <Telephone>(11) 4534-8771</Telephone>
@@ -630,12 +603,39 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Marcelo Prado - Manutenção</Name>
+<Telephone>(11) 4534-8803</Telephone>
+<Mobile>(11) 97496-6402</Mobile>
+<Other>8760</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
   
 <DirectoryEntry>
 <Name>Marcelo Ribeiro - Vendas Externas</Name>
 <Telephone></Telephone>
 <Mobile>(51) 99228-5733</Mobile>
 <Other>8907</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Matheus Campos - Contratos</Name>
+<Telephone>(11) 4534-8804</Telephone>
+<Mobile></Mobile>
+<Other>8146</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Montagem Final - Montagem</Name>
+<Telephone>(11) 4534-8810</Telephone>
+<Mobile></Mobile>
+<Other>8802</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -711,15 +711,6 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-
-<DirectoryEntry>
-<Name>Talles Sousa - TI</Name>
-<Telephone>(11) 4534-8752</Telephone>
-<Mobile>(11) 97167-3036</Mobile>
-<Other>8501</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
   
 <DirectoryEntry>
 <Name>Rafael Fernandes - Qualidade</Name>
@@ -785,14 +776,14 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Motorista</Name>
-<Telephone></Telephone>
-<Mobile>(11) 98670-6754</Mobile>
-<Other>8762</Other>
+<Name>Talles Sousa - TI</Name>
+<Telephone>(11) 4534-8752</Telephone>
+<Mobile>(11) 97167-3036</Mobile>
+<Other>8501</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
- 
+  
 <DirectoryEntry>
 <Name>Thais Fogaça - Financeiro</Name>
 <Telephone>(11) 4534-8781</Telephone>
@@ -843,15 +834,6 @@
 <Telephone>(11) 4894-7479</Telephone>
 <Mobile></Mobile>
 <Other>8145</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-
-<DirectoryEntry>
-<Name>Matheus Campos - Contratos</Name>
-<Telephone>(11) 4534-8804</Telephone>
-<Mobile></Mobile>
-<Other>8146</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
