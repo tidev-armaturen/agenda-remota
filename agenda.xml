@@ -92,7 +92,7 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Barbara Farias - Contratos</Name>
+<Name>Barbara Farias - Compras</Name>
 <Telephone>(11) 4534-8760</Telephone>
 <Mobile></Mobile>
 <Other>8143</Other>
@@ -191,7 +191,7 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Eduarda Cardozo - Qualidade</Name>
+<Name>Jonatha Silva - Qualidade</Name>
 <Telephone>(11) 4534-8785</Telephone>
 <Mobile>(11) 99648-6566</Mobile>
 <Other>8603</Other>
@@ -227,7 +227,7 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Erick Mattos - SSMA</Name>
+<Name>Tulyo Straviotti - SSMA</Name>
 <Telephone>(11) 4534-8773</Telephone>
 <Mobile>(11) 97521-6369</Mobile>
 <Other>8220</Other>
@@ -267,15 +267,6 @@
 <Telephone>(11) 4534-8792</Telephone>
 <Mobile></Mobile>
 <Other>8104</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-  
-<DirectoryEntry>
-<Name>Gabriel Assis - Manutenção</Name>
-<Telephone>(11) 4534-8807</Telephone>
-<Mobile></Mobile>
-<Other>8764</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -416,7 +407,7 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>Jonas Squetim - PCP</Name>
+<Name>Jonas Squetim - Usinagem</Name>
 <Telephone>(11) 4534-8799</Telephone>
 <Mobile>(11) 95677-9777</Mobile>
 <Other>8722</Other>
@@ -640,6 +631,16 @@
 <Group></Group>
 </DirectoryEntry>
 
+<DirectoryEntry> 
+<Name>Marcos Santos - Engenharia</Name>
+<Telephone>(11) 4534-8811</Telephone>
+<Mobile></Mobile>
+<Other>8724</Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+
+
 <DirectoryEntry>
 <Name>Matheus Campos - Contratos</Name>
 <Telephone>(11) 4894-7479</Telephone>
@@ -654,15 +655,6 @@
 <Telephone>(11) 4534-8815</Telephone>
 <Mobile></Mobile>
 <Other>8725</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-
-<DirectoryEntry>
-<Name>Montagem Final - Montagem</Name>
-<Telephone>(11) 4534-8810</Telephone>
-<Mobile></Mobile>
-<Other>8802</Other>
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
@@ -792,16 +784,7 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
-  
-<DirectoryEntry>
-<Name>Ricardo Moraes - Manutenção</Name>
-<Telephone>(11) 4534-8805</Telephone>
-<Mobile></Mobile>
-<Other>8762</Other>
-<Ring>Default</Ring>
-<Group></Group>
-</DirectoryEntry>
-  
+    
 <DirectoryEntry>
 <Name>Ronald Siciliano - Vendas Externas</Name>
 <Telephone></Telephone>
@@ -866,7 +849,7 @@
 </DirectoryEntry>
   
 <DirectoryEntry>
-<Name>Tiago Massareto - Contratos</Name>
+<Name>Tiago Massareto - Compras</Name>
 <Telephone>(11) 4534-8769</Telephone>
 <Mobile>(11) 95636-8665</Mobile>
 <Other>8144</Other>
